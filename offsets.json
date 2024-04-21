@@ -23,7 +23,7 @@
     "camera_rotation": "0x128C",
     "camera_fov": "0x1278",
     "camera_manager": "0x460",
-    "viewinfo": "0x1F80 + 0x10",
+    "viewinfo": "0x1f90",
     "actor_array": "0xa0",
     "actors_count": "0xa8",
     "actor_id": "0x18",
@@ -62,7 +62,7 @@
     "ObjID": "0x18",
     "freshnel": "0x6f0",
     "spiketime": "0x4C4",
-    "CurrentDefuseSection": "0x524 + 0x10",
+    "CurrentDefuseSection": "0x534",
     "DefuseProgress": "0x4f0",
     "PlantedAtSite": "0x4cc"
    }
