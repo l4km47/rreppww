@@ -1,6 +1,6 @@
 {
    "offsets":{
-    "base": "0x1000",
+    "base": "0x1001",
     "uworld_pointer": "0x60",
     "uworld_state": "0x92df200",
     "uworld_key": "0x92DF238",
@@ -8,7 +8,7 @@
     "g_object_key": "0x8FEFDC038",
     "line_of_sight": "0x4f7ab90",
     "LABNMTRX": "0x4A893B0",
-    "fnamepool": "0xA6D0E40",
+    "fnamepool": "0xA761C40",
     "pakman_offset": "0x1C2AC90",
     "persistent_level": "0x38",
     "game_instance": "0x1A0",
